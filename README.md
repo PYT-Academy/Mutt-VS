@@ -10,7 +10,7 @@ Das Mutt-VS-Projekt bietet folgende Hauptfunktionalitäten:
 ...
 
 ## Mitwirkende
-Sergius: Ich sehe mich in diesem Projekt als Software-Architekt und stelle die benötigten Recourcen zur verfügung, unterstütze die Programierlerlinge so gut ich kann. Bin selbst IT-Quereinsteiger und ein riesen Fan der Kommandozeile. hier findest du mehr infos. 
+Sergius: Ich sehe mich in diesem Projekt als Software-Architekt und stelle die benötigten Recourcen zur verfügung, unterstütze die Programierlerlinge so gut ich kann. Bin selbst IT-Quereinsteiger und ein riesen Fan der Kommandozeile. hier findest du mehr infos. https://pyt-academy.github.io/posts/sergius-profil/
 
 David:
 
