@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Mutt-VS ist ein grafisches Verwaltungstool, das speziell für die Verwaltung von Mutt und Neomutt, zwei leistungsstarke und hochgradig anpassbare E-Mail-Clients für die Kommandozeile, entwickelt wurde. Das Ziel dieses Projekts ist es, die Konfiguration und Verwendung dieser E-Mail-Clients für Benutzer aller Erfahrungsstufen zugänglicher zu machen.
+Mutt-VS wird GUI-Interface zur Konfiguration und Verwaltung von Mutt und NeoMutt, zwei leistungsstarke und hochgradig anpassbare E-Mail-Clients für die Kommandozeile, entwickelt wurde. Wir möchten die Eintiegslernkurve für Terminal-Anwendung entschärfen und mehr Menschen dazu Motivieren sich mit der Kommandozeile zu beschäftigen. 
 
 ## Funktionalitäten
 
@@ -10,6 +10,11 @@ Das Mutt-VS-Projekt bietet folgende Hauptfunktionalitäten:
 ...
 
 ## Mitwirkende
+Sergius: Ich sehe mich in diesem Projekt als Software-Architekt und stelle die benötigten Recourcen zur verfügung, unterstütze die Programierlerlinge so gut ich kann. Bin selbst IT-Quereinsteiger und ein riesen Fan der Kommandozeile. hier findest du mehr infos. 
+
+David:
+
+Wir suchen immer untertützung und freuen uns über Konstruktive Kritik. Die Mutt-VS ist unser erstes Projekt und würden uns über Unterstützung freuen. 
 ...
 
 ## Lizenz
