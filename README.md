@@ -7,13 +7,6 @@ Mutt-VS ist ein grafisches Verwaltungstool, das speziell für die Verwaltung von
 ## Funktionalitäten
 
 Das Mutt-VS-Projekt bietet folgende Hauptfunktionalitäten:
-
-### 1
-
-...
-
-### 2
-
 ...
 
 ## Mitwirkende
@@ -21,9 +14,9 @@ Das Mutt-VS-Projekt bietet folgende Hauptfunktionalitäten:
 
 ## Lizenz
 
-Mutt-VC wird unter der [GPL-3.0](https://opensource.org/license/gpl-3-0/) veröffentlicht. Weitere Details finden Sie in der Lizenzdatei des Projekts.
+Mutt-VC wird unter der [GPL-3.0](https://opensource.org/license/gpl-3-0/) veröffentlicht. Weitere Details findest du in der Lizenzdatei des Projekts.
 
 ## Kontakt
 ...
 
-Vielen Dank für Ihr Interesse an Mutt-VC!
+Vielen Dank für dein Interesse an Mutt-VC!
